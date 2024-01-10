@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Source: https://neetcode.io/problems/dynamicArray
+
 class DynamicArray {
 private:
     int* arr;

@@ -2,6 +2,8 @@
 #include<vector>
 using namespace std;
 
+// Description: https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150
+
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {

@@ -2,6 +2,8 @@
 #include <vector>
 using namespace std;
 
+// Source: https://neetcode.io/problems/singlyLinkedList
+
 class ListNode {
 public:
     int data;
